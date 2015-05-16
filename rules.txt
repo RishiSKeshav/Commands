@@ -1,0 +1,9 @@
+1. Mail to all modules asking for list of ordered commands for a particular event to put in github.
+
+2. Discussion about rules to execute order sent by earth with team 20, and how they evaluate the our command list 
+
+3. Mail to all modules asking them to ack., by a string(like success). If success send data also. 
+
+4. Github repo for data sent after execution by each module.
+
+5. 
